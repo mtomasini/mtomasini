@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matteo, a research engineer at the University of Gothenburg. After almost a decade of work in theoretical evolutionary biology, I just started developing simulations and software in Digital Humanities.
+- 👋 Hi, I’m Matteo, a research engineer at the University of Gothenburg. I develop agent-based simulations and other computational solutions in Digital Humanities.
 - 👀 I’m interested in helping researchers to harness the power of computational methods. Also, open source software.
 - 🌱 I’m currently learning how to be of help! I'm only now starting in this field.
 - 💞️ I’m looking to collaborate on all sorts of interesting projects: I am passionate by knowledge and I would like to work in history, litterature, philosophy,...  
