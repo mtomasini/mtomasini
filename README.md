@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Matteo, a research engineer at the University of Gothenburg. I develop agent-based simulations and other computational solutions in Digital Humanities.
-- 👀 I’m interested in helping researchers to harness the power of computational methods. Also, open source software.
-- 🌱 I’m currently learning how to be of help! I'm only now starting in this field.
-- 💞️ I’m looking to collaborate on all sorts of interesting projects: I am passionate by knowledge and I would like to work in history, litterature, philosophy,...  
+- 👋 Hi, I’m Matteo, a research engineer at the University of Gothenburg. I develop agent-based simulations and other computational solutions in digital humanities.
+- 👀 I’m interested in developing software for non-stereotypical projects, such as in archaeology or litterature.
+- 🌱 I’m currently learning to implement typical software development pipelines, in order to better integrate my team.
+- 💞️ I’m looking to collaborate on projects in the humanities! If you think agent-based modelling might help you, come to me!
 - 📫 How to reach me: DM me on Twitter (@mattomasini) or Mastodon (@mattomasini@mas.to)! And if you're not a bot, you will have no problems finding my institutional e-mail on my webpage.
 
 <!---
